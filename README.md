@@ -1,6 +1,8 @@
 # Practicas
 ggmen
- int Op = 0;
+ 
+ 
+             int Op = 0;
             while (Op != 9)
             {
                 Console.WriteLine("Seleccione una opcion.");
